@@ -1,4 +1,5 @@
 **High-Performance Python Bulk Image Processor**
+
 A lightweight Python tool to batch convert, resize, and optimize images across multiple formats (JPG, WebP, PNG, BMP, TIFF, GIF, ICO).
 
 This versatile Python utility provides a streamlined workflow for batch-processing images. Designed for efficiency, it allows users to handle large volumes of media simultaneously, ensuring consistency across entire libraries with minimal effort.
